@@ -1,0 +1,57 @@
+{
+  "navTitle": "Behind the Temples",
+  "footerText": "© 2025 GIS Taiwan Group 1. All Rights Reserved.",
+  "language": "Language",
+  "navigation": {
+    "button": "Navigate"
+  },
+  "historicalViewTitle": "Historical View",
+  "arSimulationTitle": "AR Simulation",
+  "kaijiMazu": {
+    "name": "Kaiji Tianhou Temple (Kaiji Mazu Temple)",
+    "location": "Location: Shuiziwei, North District, Tainan City",
+    "background": "Historical Background: Established in 1662 by Koxinga (Zheng Chenggong) using bricks brought from Xiamen; houses a 1640 Mazu statue known as “Ship Mazu”",
+    "milestonesTitle": "Historical Milestones:",
+    "milestones": [
+      "Expanded in 1765 and 1777 during the Qing Dynasty.",
+      "Rebuilt in 1926, damaged in WWII, restored in 1948.",
+      "Decorative renovations in 1972, door god paintings restored in 2013.",
+      "Major restoration from 2018–2019; held traditional temple rites in 2021."
+    ],
+    "architectureTitle": "Architecture:",
+    "architecture": "Long, narrow three-hall layout. Notable features: Ming Dynasty dragon columns, ancient plaques, and traditional “seven-rafter beam” roof.",
+    "deitiesTitle": "Deities Worshipped:",
+    "deities": "Main Hall: Mazu, Qianliyan, Shunfeng’er, Nezha. Rear Hall: Guanyin, Eighteen Arhats, Yue Lao; side halls for Earth God and Childbirth Goddess."
+  },
+  "wumiao": {
+    "name": "Tainan Official Martial Temple (Wumiao Temple)",
+    "location": "Location: Beside Chihkan Tower, West Central District, Tainan City",
+    "background": "Historical Background: Built in 1665 during the Zheng dynasty as “Guan Di Hall”. Recognized in 1725 by the Qing court as an official state temple (“Wumiao”).",
+    "milestonesTitle": "Historical Milestones:",
+    "milestones": [
+      "Multiple renovations during Qing rule (1690–1727).",
+      "Major rebuild in 1887; officially designated a heritage site in 1983.",
+      "Post-war preservation and restoration works, latest in 1995."
+    ],
+    "architectureTitle": "Architecture:",
+    "architecture": "North-south orientation; approx. 66m deep and 8m wide. Features diverse roof styles, exquisite wood carvings, and imperial-style door studs.",
+    "deitiesTitle": "Deities Worshipped:",
+    "deities": "Main Hall: Guan Sheng Dijun (Guan Yu), his son Guan Ping, and General Zhou Cang. Other halls: Guanyin, Tai Sui, Yue Lao, Horse God, and more."
+  },
+  "grandMazu": {
+    "name": "Tainan Grand Mazu Temple (Tianhou Temple)",
+    "location": "Location: West Central District, Tainan City; formerly Ningjing Prince’s Residence",
+    "background": "Historical Background: Originally built by the Zheng regime, converted in 1683–1684 into an official Mazu temple. Designated by Qing Emperor Kangxi in 1720 as a state-worship temple.",
+    "milestonesTitle": "Historical Milestones:",
+    "milestones": [
+      "Rebuilt after a major fire in 1818; completed in 1830.",
+      "Served as political center: surrender site to Shi Lang, former Taiwan Democratic Republic presidential residence.",
+      "Declared a heritage site in 1985.",
+      "Major Mazu pilgrimages revived in 2011, expanded to Tainan County."
+    ],
+    "architectureTitle": "Architecture:",
+    "architecture": "Features traditional layout: front gate, worship hall, main and rear halls. Rich decorations and Qing imperial plaques demonstrate its official importance.",
+    "deitiesTitle": "Cultural Role:",
+    "deities": "The first temple to be named “Tianhou Temple”. Significant site for Mazu pilgrimage, diplomacy, and inter-temple collaboration."
+  }
+}

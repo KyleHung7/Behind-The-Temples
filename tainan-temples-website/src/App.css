@@ -1,0 +1,6 @@
+.map-container {
+  /* 讓地圖高度為螢幕高度減去 Navbar 的高度 (假設 Navbar 約 60px) */
+  height: calc(100vh - 60px); 
+  width: 100%;
+  z-index: 0; /* 確保地圖在最底層 */
+}
